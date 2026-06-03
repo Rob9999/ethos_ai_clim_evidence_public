@@ -1,4 +1,4 @@
-# EthosAI® CLIM — Claiming & PR Evidence (PUBLIC)
+# EthosAI CLIM — Claiming & PR Evidence (PUBLIC)
 
 > **Sichtbarkeit: ÖFFENTLICH. Nur redigierte, freigegebene Claiming-Evidenz.**
 > **Visibility: PUBLIC. Redacted, released claiming evidence only.**
